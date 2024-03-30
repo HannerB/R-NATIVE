@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "R-NATIVE",
+    "slug": "R-NATIVE",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "R-NATIVE"
+}
